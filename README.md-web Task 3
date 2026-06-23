@@ -1,0 +1,34 @@
+Web Traffic Analysis Taks 3 — Alfido Tech Data Analyst Internship
+
+Candidate: Aditi Kumari | ID: BS/REG/119814
+
+Organisation: Alfido Tech | Task: Task 3 — Web Traffic Analysis
+
+Dataset: Kaggle — Website Traffic | Period: Aug 19–25, 2021
+
+Code file -https://drive.google.com/file/d/1w9bp7xn5sfsLxa0qxqoEO0UxLatQRI0O/view?usp=sharing
+
+Pdf file -https://drive.google.com/file/d/1m7EjgMBSZ1k0IcAp4DQo2mAIpB7vXX-3/view?usp=sharing
+Overview
+
+This project was completed as part of the Alfido Tech Data Analyst Internship Task 3. The goal was to analyze web traffic behavior on Alfido Tech's music smart-link pages, identify top-performing content, and uncover opportunities to improve conversion rates. Dataset
+
+Source: Kaggle — Website Traffic Dataset Raw Records: 226,278 | Cleaned Records: 122,567 Period: August 19–25, 2021 across 212 countries Event Types: Pageviews (73,360), Clicks (32,499), Previews (16,708) Features: event, date, country, city, artist, album, track, isrc, linkid
+
+Analysis Performed
+
+Daily event volume and traffic decay trends over 7 days Unique user retention and session-level engagement Top 10 landing tracks and exit pages by pageviews and clicks User journey funnel — Pageviews → Previews → Clicks Geographic traffic distribution and CTR by country Bounce rate analysis across markets Top artists by pageview traffic
+
+Key Findings
+
+Platform achieved a strong CTR of 44.3% and a bounce rate of 32.6% Only 22.8% of visitors triggered a preview — the biggest untapped conversion opportunity Jalebi Baby alone drove 6.2% of all pageviews, flagging a single-track dependency risk United States and India together accounted for ~40% of total traffic Nigeria led all markets in CTR at ~56%, followed by Pakistan and Saudi Arabia Traffic decayed ~15% from Thursday to Sunday, suggesting campaign-driven spikes
+
+Tools & Libraries
+
+Language: Python 3 | Environment: Jupyter Notebook Libraries: Pandas, NumPy, Matplotlib
+
+Repository Structure
+
+Web_traffic_Analysis.ipynb — Complete analysis and code traffic.csv — Raw dataset Presentation.pdf — Final report with all charts and insights README.md — Project documentation
+
+Alfido Tech Data Analyst Internship — Task 3
