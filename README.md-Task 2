@@ -1,0 +1,102 @@
+Superstore Sales Performance Analysis| Alfido Tech Internship — Task 2 | Aditi Kumari | BS/REG/119814
+
+Note If the notebook preview does not load on GitHub, please download the .ipynb file and open it locally. A PDF version of the report is also included.
+
+Notebook File - https://drive.google.com/file/d/1lFfPKuyn9ro6Sf-Pr_V7KTj3L9Si_KAZ/view?usp=sharing
+
+PDF FILE - https://drive.google.com/file/d/1T4C9LYCOPSz4jF1sWmySXVfgimsNHifQ/view?usp=sharing
+
+About the Project This report provides a deep-dive analysis into the Superstore Sales dataset to identify revenue drivers, growth opportunities, and strategic recommendations. The analysis covers a four-year period (2015–2018) across 4 regions, 3 categories and 17 sub-categories.
+
+Dataset Overview
+
+Metric	Value
+Total Rows	9,800
+Total Columns	18
+Date Range	January 2015 – December 2018
+Regions	West, East, Central, South
+Categories	Furniture, Office Supplies, Technology
+Source	Superstore Sales — Kaggle
+Tool	Python (Pandas, Matplotlib, Seaborn)
+Key Performance Indicators
+
+KPI	Value
+Total Revenue	$2,261,537
+Total Orders	4,922
+Unique Customers	793
+Avg Order Value (AOV)	$459.48
+Orders per Customer	6.2x
+Top Region	West ($710K)
+Regional Performance
+
+Region	Revenue	Orders	AOV
+West	$710,220	1,587	$447.52
+East	$669,519	1,369	$489.06
+Central	$492,647	1,156	$426.17
+South	$389,151	810	$480.43
+West leads all regions with $710K — 7.5% above East and 82.5% above South.
+
+Category Performance
+Category	Revenue	Share
+Technology	$827,456	36.6%
+Furniture	$728,659	32.2%
+Office Supplies	$705,422	31.2%
+Top 5 Sub-Categories
+
+Rank	Sub-Category	Revenue
+1	Phones	$327,782
+2	Chairs	$322,823
+3	Storage	$219,343
+4	Tables	$202,811
+5	Binders	$200,029
+Phones and Chairs alone contribute $648K — nearly 29% of total revenue.
+
+Year over Year Growth
+
+Year	Revenue	Growth
+2015	$479,856	—
+2016	$459,436	-4.26% ▼
+2017	$600,193	+30.6% ▲
+2018	$722,052	+20.8% ▲
+2017 was the breakout year with +30.6% growth — strongest in the dataset period.
+
+Customer Segment Performance
+
+Segment	Revenue	Share	AOV
+Consumer	$1,148,061	50.9%	$452.53
+Corporate	$688,494	30.3%	$461.77
+Home Office	$424,982	18.8%	$475.37
+Shipping Analysis
+
+Ship Mode	Orders	Avg Days
+Standard Class	2,945	5.0 days
+Second Class	944	3.2 days
+First Class	772	2.2 days
+Same Day	261	0.0 days
+Customer Loyalty
+
+Repeat Customers: 780 (98.4%)
+One-time Customers: 13 (1.6%)
+Extremely high repeat purchase rate confirms strong customer loyalty
+Seasonality
+
+Q4 (Oct–Dec) consistently generates the highest revenue every year
+November and December are peak months driven by holiday demand
+Q1 is the lowest — ideal for inventory restock and strategic planning
+Conclusion
+
+The Superstore achieved $2.26M in total revenue over 2015–2018 with a strong upward trajectory.
+
+West region and Technology category are the two primary revenue engines.
+
+Revenue grew +30.6% in 2017 and +20.8% in 2018. Q4 seasonality is consistent and predictable — it should be proactively leveraged through early campaign planning.
+
+Phones and Chairs together contribute 29% of total revenue and deserve focused investment.
+
+Note If the notebook preview does not load on GitHub, please download the .ipynb file and open it locally. A PDF version of the report is also included.
+
+Notebook File - https://drive.google.com/file/d/1B0RJFd5F2RP5yfl1fwuCX8oKpAI-v2Os/view?usp=sharing
+
+PDF FILE - https://drive.google.com/file/d/1T4C9LYCOPSz4jF1sWmySXVfgimsNHifQ/view?usp=sharing
+
+Author Aditi Kumari Role: Data Analyst Intern | Alfido Tech
